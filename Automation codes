@@ -74,9 +74,6 @@ folder_link = ('/content/drive/MyDrive/Swiggy_Nov-Dec_files/DDD')
 # Enter output file name for output
 file_output = ('123')
 
-# Enter your folder link
-folder_link = ('/content/drive/MyDrive/Swiggy_Nov-Dec_files/DDD')
-
 # creting a data frame
 df=pd.DataFrame()
 count=0
